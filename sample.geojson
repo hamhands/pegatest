@@ -1,0 +1,51 @@
+{
+    "features": [{
+        "geometry": {"coordinates": [-77.1823395, 39.1497834], "type": "Point"},
+        "type": "Feature",
+        "properties": {
+            "caseRef": "IVANA-CSSURVEY-WORK F-31",
+            "lastUpdatedBy": "Alexei",
+            "createdBy": "Alexei",
+            "createTime": "2017-06-26T05:16:44.531Z",
+            "name": "Feedback",
+            "caseType": "Ivana-CSSurvey-Work-Feedback",
+            "lastUpdateTime": "2017-06-26T05:16:52.678Z"}
+        },
+        {
+        "geometry": {"coordinates": [-76.1823395, 39.1497834], "type": "Point"},
+        "type": "Feature",
+        "properties": {
+            "caseRef": "IVANA-CSSURVEY-WORK F-32",
+            "lastUpdatedBy": "Alexei",
+            "createdBy": "Alexei",
+            "createTime": "2017-06-26T05:16:44.531Z",
+            "name": "Feedback",
+            "caseType": "Ivana-CSSurvey-Work-Feedback",
+            "lastUpdateTime": "2017-06-26T05:16:52.678Z"}
+        },
+        {
+        "geometry": {"coordinates": [-75.1823395, 39.1497834], "type": "Point"},
+        "type": "Feature",
+        "properties": {
+            "caseRef": "IVANA-CSSURVEY-WORK F-33",
+            "lastUpdatedBy": "Alexei",
+            "createdBy": "Alexei",
+            "createTime": "2017-06-26T05:16:44.531Z",
+            "name": "Feedback",
+            "caseType": "Ivana-CSSurvey-Work-Feedback",
+            "lastUpdateTime": "2017-06-26T05:16:52.678Z"}
+        },
+        {
+        "geometry": {"coordinates": [-74.1823395, 39.1497834], "type": "Point"},
+        "type": "Feature",
+        "properties": {
+            "caseRef": "IVANA-CSSURVEY-WORK F-34",
+            "lastUpdatedBy": "Alexei",
+            "createdBy": "Alexei",
+            "createTime": "2017-06-26T05:16:44.531Z",
+            "name": "Feedback",
+            "caseType": "Ivana-CSSurvey-Work-Feedback",
+            "lastUpdateTime": "2017-06-26T05:16:52.678Z"}
+        }
+    ], "type": "FeatureCollection"
+}
